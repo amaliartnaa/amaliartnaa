@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✨, I'm Amel</h1>
-<h3 align="center">🌙An Astrophile and Jr Software Engineer🌙</h3>
+<h1 align="center">Hola👋, I'm Amel</h1>
+<h3 align="center">🌙An Astrophile and Software Eng Enthusiast🌙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaliartnaa&label=Profile%20views&color=0e75b6&style=flat" alt="amaliartnaa" /> </p>
 
@@ -16,8 +16,6 @@
 - 📄 Know about my experiences at [https://www.linkedin.com/in/amaliartnaa/](https://www.linkedin.com/in/amaliartnaa/)
 
 - 🔭 I have interest about **Space, Mystery, and Technology**
-
-- 📫 Contact me at **amaliaratna41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
