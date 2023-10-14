@@ -7,7 +7,7 @@
 
 - 📖 I love read **Arthur Conan Doyle, Keigo Higashino and Rick Riordan novels**
 
-- 👩‍💻 I’m currently learning about **React and Backend**
+- 👩‍💻 Currently learn about **React and Backend**
 
 - 🤝I'm looking for projects and experiences about **Web Dev**
 
