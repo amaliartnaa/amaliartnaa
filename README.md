@@ -7,13 +7,13 @@
 
 - 🫧 I love  **Reading, Painting, and Gaming**
 
+- 🔭 I have interest about **Space, Mystery, and Technology**
+
 - 👩‍💻 I’m currently learning about **Web and Android Development**
 
 - 🛸 All of my projects are available at [https://amaliartnaa.vercel.app/](https://amaliartnaa.vercel.app/)
 
 - 📄 Connect with me at [https://www.linkedin.com/in/amaliartnaa/](https://www.linkedin.com/in/amaliartnaa/)
-
-- 🔭 I have interest about **Space, Mystery, and Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
