@@ -5,19 +5,15 @@
 
 - 🎒 I’m Information Systems Student at **Institut Teknologi Sepuluh Nopember**
 
-- 📖 I love read **Arthur Conan Doyle, Keigo Higashino and Rick Riordan novels**
+- 🫧 I love  **Reading, Painting, and Gaming**
 
-- 👩‍💻 I’m currently learning about **React**
-
-- 🤝I'm looking for projects and experiences about **Web Dev**
+- 👩‍💻 I’m currently learning about **Web and Android Development**
 
 - 🛸 All of my projects are available at [https://amaliartnaa.vercel.app/](https://amaliartnaa.vercel.app/)
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/amaliartnaa/](https://www.linkedin.com/in/amaliartnaa/)
+- 📄 Connect with me at [https://www.linkedin.com/in/amaliartnaa/](https://www.linkedin.com/in/amaliartnaa/)
 
 - 🔭 I have interest about **Space, Mystery, and Technology**
-
-- 📫 Contact me at **amaliaratna41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
