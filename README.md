@@ -24,10 +24,10 @@ I am a second-year university student who studying Business Management and IT. O
 
 
 ## Rapidfire  
-- 🔭 Second year Information System student  
+- 💻 Second year Information System student  
   
 
-- 🛰️ Currently explore MERN Stack   
+- 🔭 Currently explore MERN Stack   
   
 
 - 🎮 Healing on Steam and Genshin Impact  
