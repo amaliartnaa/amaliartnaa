@@ -54,11 +54,11 @@ I am a second-year university student who studying Business Management and IT. O
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaliartnaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amaliartnaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
