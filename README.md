@@ -1,82 +1,21 @@
-# <div align="center">Hi👋, I'm Amel</div>  
-  
-
-<div align="center">
-<a href="https://linkedin.com/in/amaliartnaa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/amaliartnaa" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/amaliartnaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+# 💫 About Me:
+🦉Hi! my name is Amel<br><br>💻Second year Information System student<br><br>🔭Currently explore tech stacks for fullstack<br><br>🎮Healing on Steam and Genshin Impact<br><br>🌊Love animals, sea, and moon
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaliartnaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaliartnaa) 
 
-### Glad to see you here!  
-I am a second-year university student who studying Business Management and IT. Outside of my academic hours, I dedicate time to enhancing my skills in web and mobile app development. In web development, I lean more towards the frontend and familiar with the backend. Currently, I am looking for hands-on experience and actively engaging in collaborative projects related to website development. If anyone is interested in learning together, feel free to contact me🙋‍♀  
-  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amaliartnaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amaliartnaa&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amaliartnaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=amaliartnaa&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## Rapidfire  
-- 💻 Second year Information System student  
-  
-
-- 🔭 Currently explore tech stacks for fullstack  
-  
-
-- 🎮 Healing on Steam and Genshin Impact  
-  
-
-- 🌊 Love animals, sea, and moon  
-  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amaliartnaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=amaliartnaa&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
