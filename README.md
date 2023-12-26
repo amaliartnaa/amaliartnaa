@@ -21,7 +21,15 @@
 
 ###
 
+<h2 align="center">About me</h2>
+
+###
+
 <p align="left">💻 Second year Information System student <br><br>🦉 Interest about website and mobile app development<br>  <br>🔭 Currently explore tech stacks for fullstack  <br>  <br>🎮 Healing on Steam and Genshin Impact  <br>  <br>🌊 Love animals, sea, and moon</p>
+
+###
+
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
@@ -36,6 +44,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<h2 align="center">My stat</h2>
 
 ###
 
