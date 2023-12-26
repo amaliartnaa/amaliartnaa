@@ -60,12 +60,6 @@ I am a second-year university student who studying Business Management and IT. O
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amaliartnaa&theme=tokyonight&hide_border=true" align="left" style="width: 100%" />
-  
 </td></tr></table>  
 
 <br/>  
