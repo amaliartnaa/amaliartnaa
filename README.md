@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working as a frontend developer and looking for experiences on related field<br>📚 I'm currently learning web development, programming, <br>🎯 Goals: Be a software engineer in future<br>🎲 I love game and read books</p>
+<p align="left">✨ I'm currently working as a frontend developer and looking for experiences on related field<br>📚 I'm currently learning web development, programming, cloud computing<br>🎯 Goals: Be a software engineer in future<br>🎲 I love game and read books</p>
 
 ###
 
