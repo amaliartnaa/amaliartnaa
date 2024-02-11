@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working as a frontend developer and looking for experiences on related fields<br>📚 I'm currently learning web development, programming, and related fields<br>🎯 Goals: Be a software engineer in future<br>🎲 I love game and read books<br>🚀 Look my website at <a href="https://www.youtube.com/@amppinstitutteknologisepul5302" target="_blank">
+<p align="left">✨ I'm currently working as a frontend developer and looking for experiences on related fields<br>📚 I'm currently learning web development, programming, and related fields<br>🎯 Goals: Be a software engineer in future<br>🎲 I love game and read books<br>🚀 Look my website at <a href="https://amaliartnaa.vercel.app" target="_blank">
             here
           </a></p>
 
