@@ -14,10 +14,6 @@
 
 ###
 
-<img align="right" height="200" src="https://25.media.tumblr.com/tumblr_mdgokqqjbP1rcbrvio1_400.gif"  />
-
-###
-
 <h2 align="left">I usually code with (still learning)</h2>
 
 ###
