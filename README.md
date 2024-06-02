@@ -43,22 +43,3 @@
 </div>
 
 ###
-
-<img align="left" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/533cb6a0-dfa6-4a81-8a8c-44c5f7f65c5d/df0i50t-fb9f6bd4-5c3f-4629-953c-8560087d2d8d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzM2NiNmEwLWRmYTYtNGE4MS04YThjLTQ0YzVmN2Y2NWM1ZFwvZGYwaTUwdC1mYjlmNmJkNC01YzNmLTQ2MjktOTUzYy04NTYwMDg3ZDJkOGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0u-xydFTN0R4aVLVOnmqpw9GQbB3bwC0ohckmpGrDSg"  />
-
-###
-
-<h2 align="left">Let's connect!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amaliartnaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/amaliartnaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
