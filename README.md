@@ -1,36 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">
+Hello, I'm Amel!
+	<a href="https://github.com/amaliartnaa" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<hr>
+<pre>💻 I am mainly a Frontend Developer
+📚 I am Information Systems Student from Surabaya, Indonesia
+📝 Interested in Software Engineering and Machine Learning
+⚛️ Mainly work in React ecosystem
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: JavaScript/TypeScript
+😃 I look forward to collaborating on impactful projects
+</pre>
+<hr>
+<h2 id="-connect-with-me">🤝 Connect with me</h2>
+<p align="center">
+	<a href="mailto:amaliaratna41@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="https://www.linkedin.com/in/amaliartnaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/amaliartnaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
+</p>
+<h2 id="-my-tech-stack">💻 My Tech Stack (still learning)</h2>
+<p>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&amp;logo=typescript&amp;logoColor=white"></a>
+    <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&amp;logo=react&amp;logoColor=white"></a>
+    <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&amp;logo=nextdotjs&amp;logoColor=white"></a>
+    <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&amp;logo=tailwind-css&amp;logoColor=white"></a>
+    <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&amp;logo=express&amp;logoColor=white"></a>
+    <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&amp;logo=javascript&amp;logoColor=black"></a>
+</p>
 
-###
-
-<p align="left">My name is Amel and I'm an information systems student from Surabaya, Indonesia</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I'm currently working as a frontend developer and looking for experiences on related fields<br>📚 I'm currently learning software engineering, machine learning, and related fields<br>🎯 Goals: Be a software engineer in future<br>🎲 I love game and read books<br>🚀 Look my website at https://amaliartnaa.vercel.app</p>
-
-###
-
-<h2 align="left">I usually code with (still learning)</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
 
 ###
 
