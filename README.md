@@ -14,13 +14,13 @@ Hello, I'm Amel!
 😃 I look forward to collaborating on impactful projects
 </pre>
 <hr>
-<h2 id="-connect-with-me">🤝 Connect with me</h2>
+<h2 id="-connect-with-me"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> Connect with me</h2>
 <p align="center">
 	<a href="mailto:amaliaratna41@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/amaliartnaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/amaliartnaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
-<h2 id="-my-tech-stack">💻 My Tech Stack (still learning)</h2>
+<h2 id="-my-tech-stack"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"> My Tech Stack (still learning)</h2>
 <p>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&amp;logo=typescript&amp;logoColor=white"></a>
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&amp;logo=react&amp;logoColor=white"></a>
@@ -29,6 +29,7 @@ Hello, I'm Amel!
     <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&amp;logo=express&amp;logoColor=white"></a>
     <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&amp;logo=javascript&amp;logoColor=black"></a>
 </p>
+
 
 
 ###
