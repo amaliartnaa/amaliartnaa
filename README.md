@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amel and I'm a Information System student from Surabaya</p>
+<p align="left">My name is Amel and I'm an Information System student from Surabaya</p>
 
 ###
 
