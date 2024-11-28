@@ -1,20 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## こんにちは!👋😺  
+  
 
-###
+Hi, my name is Ratna Amalia Azzahra, u can call me Amel. I’m a third-year Information Systems student at Institut Teknologi Sepuluh Nopember. I’m passionate about Software Engineering and Artificial Intelligence, particularly in areas like Machine Learning and Deep Learning. My primary focus is web development, where I mostly work on the frontend using the React ecosystem.  
+  
 
-<p align="left">My name is Amel and I'm an Information System student from Surabaya</p>
+<br/>  
 
-###
 
-<h2 align="left">About me</h2>
+## Languages and Tools  
+<div align="center">  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>  
 
-###
+<br/>  
 
-<p align="left">🎒Third-year Information System Student from Institut Teknologi Sepuluh Nopember<br>✨Interested in Software Engineering and AI (Machine Learning, Deep Learning, etc.)<br>⚛️Mostly work in web development (frontend) with React ecosystem</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaliartnaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaliartnaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=amaliartnaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliartnaa&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
