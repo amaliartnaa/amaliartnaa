@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Ratna Amalia Azzahra, u can call me Amel. I’m a third-year Information Systems student at Institut Teknologi Sepuluh Nopember. I’m passionate about Software Engineering and Artificial Intelligence, particularly in areas like Machine Learning and Deep Learning. My primary focus is web development, where I mostly work on the frontend using the React ecosystem.</p>
+<p align="left">Hi, my name is Ratna Amalia Azzahra, u can call me Amel. I’m a third-year Information Systems student at Institut Teknologi Sepuluh Nopember in Surabaya, Indonesia. I’m passionate about Software Engineering and Artificial Intelligence, with a particular interest in Machine Learning and Deep Learning. My main focus is web development, where I specialize in frontend development using the React ecosystem</p>
 
 ###
 
