@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚Third year Information System Student @ Institut Teknologi Sepuluh Nopember<br>🔭Interested in Software Engineering, Cyber Security, and Artificial Intelligence<br>💻I usually code with TypeScript, Java/Kotlin,  and Python</p>
+<p align="left">📚Third year Information System Student @ Institut Teknologi Sepuluh Nopember<br>🔭Interested in Software Engineering and Artificial Intelligence<br>💻I usually code with TypeScript, Java/Kotlin,  and Python</p>
 
 ###
 
