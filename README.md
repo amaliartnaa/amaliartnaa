@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">📚Final year Information System Student @ Institut Teknologi Sepuluh Nopember<br>🔭Interested in Software Engineering and Artificial Intelligence (also Astronomy)<br>💻I usually code with TypeScript, Java/Kotlin,  and Python<br>🤖See my personal website at [here](https://amaliaratna.vercel.app)</p>
+<p align="left">📚Final year Information System Student @ Institut Teknologi Sepuluh Nopember<br>🔭Interested in Software Engineering and Artificial Intelligence (also Astronomy)<br>💻I usually code with TypeScript, Java/Kotlin,  and Python<br>🤖See my personal website at <a href="https://amaliaratna.vercel.app" target="_blank">here</a>
+</p>
 
 ###
 
